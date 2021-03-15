@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.exe
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.deps.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.pdb
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go 100\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go 100.pdb

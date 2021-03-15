@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\Loops Exersices\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb

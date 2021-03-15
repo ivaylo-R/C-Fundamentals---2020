@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.exe
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\bin\Debug\netcoreapp3.1\03.roundingNumbs.pdb
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\obj\Debug\netcoreapp3.1\03.roundingNumbs.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\obj\Debug\netcoreapp3.1\03.roundingNumbs.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\obj\Debug\netcoreapp3.1\03.roundingNumbs.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\obj\Debug\netcoreapp3.1\03.roundingNumbs.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\03.roundingNumbs\obj\Debug\netcoreapp3.1\03.roundingNumbs.pdb

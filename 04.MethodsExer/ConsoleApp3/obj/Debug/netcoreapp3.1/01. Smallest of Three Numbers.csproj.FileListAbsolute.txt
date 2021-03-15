@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\ConsoleApp3\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb

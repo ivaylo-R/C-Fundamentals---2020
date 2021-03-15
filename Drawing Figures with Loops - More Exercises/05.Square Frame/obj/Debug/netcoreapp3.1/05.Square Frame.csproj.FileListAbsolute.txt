@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.exe
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.deps.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\bin\Debug\netcoreapp3.1\05.Square Frame.pdb
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\obj\Debug\netcoreapp3.1\05.Square Frame.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\obj\Debug\netcoreapp3.1\05.Square Frame.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\obj\Debug\netcoreapp3.1\05.Square Frame.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\obj\Debug\netcoreapp3.1\05.Square Frame.pdb
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\05.Square Frame\obj\Debug\netcoreapp3.1\05.Square Frame.csprojAssemblyReference.cache

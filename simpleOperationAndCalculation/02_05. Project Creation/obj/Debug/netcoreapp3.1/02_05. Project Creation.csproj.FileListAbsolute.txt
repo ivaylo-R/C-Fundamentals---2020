@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\bin\Debug\netcoreapp3.1\02_05. Project Creation.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\obj\Debug\netcoreapp3.1\02_05. Project Creation.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\obj\Debug\netcoreapp3.1\02_05. Project Creation.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\obj\Debug\netcoreapp3.1\02_05. Project Creation.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_05. Project Creation\obj\Debug\netcoreapp3.1\02_05. Project Creation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\bin\Debug\netcoreapp3.1\encrypsSortAndPrintArray.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\obj\Debug\netcoreapp3.1\encrypsSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\obj\Debug\netcoreapp3.1\encrypsSortAndPrintArray.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\obj\Debug\netcoreapp3.1\encrypsSortAndPrintArray.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\obj\Debug\netcoreapp3.1\encrypsSortAndPrintArray.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\arrayMoreExercise\obj\Debug\netcoreapp3.1\encrypsSortAndPrintArray.csprojAssemblyReference.cache

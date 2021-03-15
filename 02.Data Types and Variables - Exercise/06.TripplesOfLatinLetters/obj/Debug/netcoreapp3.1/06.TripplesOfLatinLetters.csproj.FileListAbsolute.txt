@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\06.TripplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TripplesOfLatinLetters.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\bin\Debug\netcoreapp3.1\07_AlcoholMarket.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\obj\Debug\netcoreapp3.1\07_AlcoholMarket.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\obj\Debug\netcoreapp3.1\07_AlcoholMarket.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\obj\Debug\netcoreapp3.1\07_AlcoholMarket.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\obj\Debug\netcoreapp3.1\07_AlcoholMarket.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\07_AlcoholMarket\obj\Debug\netcoreapp3.1\07_AlcoholMarket.pdb

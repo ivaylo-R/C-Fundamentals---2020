@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\bin\Debug\netcoreapp3.1\05.SumOfEvenNumbers.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\obj\Debug\netcoreapp3.1\05.SumOfEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\obj\Debug\netcoreapp3.1\05.SumOfEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\obj\Debug\netcoreapp3.1\05.SumOfEvenNumbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\obj\Debug\netcoreapp3.1\05.SumOfEvenNumbers.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\05.SumOfEvenNumbers\obj\Debug\netcoreapp3.1\05.SumOfEvenNumbers.pdb

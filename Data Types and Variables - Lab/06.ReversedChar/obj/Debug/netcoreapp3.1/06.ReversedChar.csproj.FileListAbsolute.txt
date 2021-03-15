@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\bin\Debug\netcoreapp3.1\06.ReversedChar.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\obj\Debug\netcoreapp3.1\06.ReversedChar.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\obj\Debug\netcoreapp3.1\06.ReversedChar.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\obj\Debug\netcoreapp3.1\06.ReversedChar.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\obj\Debug\netcoreapp3.1\06.ReversedChar.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\06.ReversedChar\obj\Debug\netcoreapp3.1\06.ReversedChar.pdb

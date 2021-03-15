@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\bin\Debug\netcoreapp3.1\aquariumSecondWay.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\obj\Debug\netcoreapp3.1\aquariumSecondWay.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\obj\Debug\netcoreapp3.1\aquariumSecondWay.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\obj\Debug\netcoreapp3.1\aquariumSecondWay.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\aquarium2\obj\Debug\netcoreapp3.1\aquariumSecondWay.pdb

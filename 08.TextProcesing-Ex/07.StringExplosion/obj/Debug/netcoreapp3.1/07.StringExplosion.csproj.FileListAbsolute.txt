@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csprojAssemblyReference.cache

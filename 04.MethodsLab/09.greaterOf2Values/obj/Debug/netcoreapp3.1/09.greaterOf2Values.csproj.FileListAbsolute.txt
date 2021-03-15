@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\obj\Debug\netcoreapp3.1\09.greaterOf2Values.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\obj\Debug\netcoreapp3.1\09.greaterOf2Values.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\obj\Debug\netcoreapp3.1\09.greaterOf2Values.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\bin\Debug\netcoreapp3.1\09.greaterOf2Values.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\obj\Debug\netcoreapp3.1\09.greaterOf2Values.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\09.greaterOf2Values\obj\Debug\netcoreapp3.1\09.greaterOf2Values.pdb

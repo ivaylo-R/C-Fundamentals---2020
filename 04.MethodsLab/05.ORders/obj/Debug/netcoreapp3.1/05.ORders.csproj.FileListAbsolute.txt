@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\bin\Debug\netcoreapp3.1\05.ORders.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\obj\Debug\netcoreapp3.1\05.ORders.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\obj\Debug\netcoreapp3.1\05.ORders.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\obj\Debug\netcoreapp3.1\05.ORders.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\05.ORders\obj\Debug\netcoreapp3.1\05.ORders.pdb

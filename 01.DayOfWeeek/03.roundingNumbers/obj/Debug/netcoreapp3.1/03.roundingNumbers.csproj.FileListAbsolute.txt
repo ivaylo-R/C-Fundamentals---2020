@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\bin\Debug\netcoreapp3.1\03.roundingNumbers.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\obj\Debug\netcoreapp3.1\03.roundingNumbers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\obj\Debug\netcoreapp3.1\03.roundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\obj\Debug\netcoreapp3.1\03.roundingNumbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\obj\Debug\netcoreapp3.1\03.roundingNumbers.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.roundingNumbers\obj\Debug\netcoreapp3.1\03.roundingNumbers.pdb

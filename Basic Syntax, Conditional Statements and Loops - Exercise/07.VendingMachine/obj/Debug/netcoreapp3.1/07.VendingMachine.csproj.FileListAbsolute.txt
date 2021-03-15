@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb

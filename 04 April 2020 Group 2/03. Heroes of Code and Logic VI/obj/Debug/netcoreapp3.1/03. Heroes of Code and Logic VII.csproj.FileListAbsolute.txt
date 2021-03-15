@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\03. Heroes of Code and Logic VI\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb

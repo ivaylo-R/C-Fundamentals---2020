@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.exe
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.deps.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\bin\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\obj\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\obj\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\obj\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\obj\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\02.equalSumsEvenOddPossition\obj\Debug\netcoreapp3.1\02.equalSumsEvenOddPossition.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb

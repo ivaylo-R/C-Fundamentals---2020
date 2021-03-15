@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb

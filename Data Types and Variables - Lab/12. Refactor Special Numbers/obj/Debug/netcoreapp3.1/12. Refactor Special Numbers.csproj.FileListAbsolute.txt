@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb

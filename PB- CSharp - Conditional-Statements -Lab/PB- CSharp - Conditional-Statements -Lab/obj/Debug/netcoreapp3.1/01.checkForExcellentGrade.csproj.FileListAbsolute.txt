@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\bin\Debug\netcoreapp3.1\01.checkForExcellentGrade.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\obj\Debug\netcoreapp3.1\01.checkForExcellentGrade.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\obj\Debug\netcoreapp3.1\01.checkForExcellentGrade.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\obj\Debug\netcoreapp3.1\01.checkForExcellentGrade.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\obj\Debug\netcoreapp3.1\01.checkForExcellentGrade.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\PB- CSharp - Conditional-Statements -Lab\obj\Debug\netcoreapp3.1\01.checkForExcellentGrade.pdb

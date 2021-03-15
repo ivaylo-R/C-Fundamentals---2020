@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.csprojAssemblyReference.cache

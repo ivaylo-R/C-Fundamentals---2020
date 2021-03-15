@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\02.EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfLastDigit.pdb

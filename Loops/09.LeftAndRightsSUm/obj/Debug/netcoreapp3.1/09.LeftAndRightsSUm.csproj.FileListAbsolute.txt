@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.exe
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.deps.json
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.dll
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\bin\Debug\netcoreapp3.1\09.LeftAndRightsSUm.pdb
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\obj\Debug\netcoreapp3.1\09.LeftAndRightsSUm.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\obj\Debug\netcoreapp3.1\09.LeftAndRightsSUm.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\obj\Debug\netcoreapp3.1\09.LeftAndRightsSUm.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\obj\Debug\netcoreapp3.1\09.LeftAndRightsSUm.dll
+C:\Users\Ana-Maria\source\repos\Loops\09.LeftAndRightsSUm\obj\Debug\netcoreapp3.1\09.LeftAndRightsSUm.pdb

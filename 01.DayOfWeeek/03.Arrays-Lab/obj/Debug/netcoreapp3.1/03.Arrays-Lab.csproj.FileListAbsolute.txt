@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\bin\Debug\netcoreapp3.1\03.Arrays-Lab.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\obj\Debug\netcoreapp3.1\03.Arrays-Lab.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\obj\Debug\netcoreapp3.1\03.Arrays-Lab.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\obj\Debug\netcoreapp3.1\03.Arrays-Lab.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\obj\Debug\netcoreapp3.1\03.Arrays-Lab.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\03.Arrays-Lab\obj\Debug\netcoreapp3.1\03.Arrays-Lab.pdb

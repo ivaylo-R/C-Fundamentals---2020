@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.exe
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.pdb
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\02 printNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. printNumbersInReverseOrder.pdb

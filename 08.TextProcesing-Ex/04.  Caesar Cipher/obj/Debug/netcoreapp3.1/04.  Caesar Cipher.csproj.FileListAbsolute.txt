@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\bin\Debug\netcoreapp3.1\04.  Caesar Cipher.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\obj\Debug\netcoreapp3.1\04.  Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\obj\Debug\netcoreapp3.1\04.  Caesar Cipher.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\obj\Debug\netcoreapp3.1\04.  Caesar Cipher.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\04.  Caesar Cipher\obj\Debug\netcoreapp3.1\04.  Caesar Cipher.pdb

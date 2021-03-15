@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\07.AssociativeArrays\obj\Debug\netcoreapp3.1\demo.pdb

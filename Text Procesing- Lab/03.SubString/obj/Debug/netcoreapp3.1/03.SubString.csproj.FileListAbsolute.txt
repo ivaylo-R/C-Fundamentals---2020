@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.exe
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.deps.json
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.dll
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\bin\Debug\netcoreapp3.1\03.SubString.pdb
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\obj\Debug\netcoreapp3.1\03.SubString.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\obj\Debug\netcoreapp3.1\03.SubString.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\obj\Debug\netcoreapp3.1\03.SubString.dll
+C:\Users\Ana-Maria\source\repos\Text Procesing- Lab\03.SubString\obj\Debug\netcoreapp3.1\03.SubString.pdb

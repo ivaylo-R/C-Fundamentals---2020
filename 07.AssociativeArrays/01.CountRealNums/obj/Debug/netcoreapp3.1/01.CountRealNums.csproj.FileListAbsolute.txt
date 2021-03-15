@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\bin\Debug\netcoreapp3.1\01.CountRealNums.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\obj\Debug\netcoreapp3.1\01.CountRealNums.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\obj\Debug\netcoreapp3.1\01.CountRealNums.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\obj\Debug\netcoreapp3.1\01.CountRealNums.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\obj\Debug\netcoreapp3.1\01.CountRealNums.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\01.CountRealNums\obj\Debug\netcoreapp3.1\01.CountRealNums.pdb

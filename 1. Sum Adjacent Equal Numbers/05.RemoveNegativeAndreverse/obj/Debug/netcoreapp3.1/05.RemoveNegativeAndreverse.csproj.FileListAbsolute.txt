@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.exe
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.deps.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.pdb
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.pdb
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\05.RemoveNegativeAndreverse\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndreverse.csprojAssemblyReference.cache

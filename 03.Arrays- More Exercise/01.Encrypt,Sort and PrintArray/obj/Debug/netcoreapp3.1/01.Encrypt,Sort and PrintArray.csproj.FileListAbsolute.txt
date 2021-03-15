@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.exe
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.deps.json
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.dll
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.pdb
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.dll
+C:\Users\Ana-Maria\source\repos\03.Arrays- More Exercise\01.Encrypt,Sort and PrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,Sort and PrintArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.pdb

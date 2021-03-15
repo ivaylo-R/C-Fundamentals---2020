@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\bin\Debug\netcoreapp3.1\07.areaOfFigures.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\obj\Debug\netcoreapp3.1\07.areaOfFigures.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\obj\Debug\netcoreapp3.1\07.areaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\obj\Debug\netcoreapp3.1\07.areaOfFigures.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\obj\Debug\netcoreapp3.1\07.areaOfFigures.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\07.areaOfFigures\obj\Debug\netcoreapp3.1\07.areaOfFigures.pdb

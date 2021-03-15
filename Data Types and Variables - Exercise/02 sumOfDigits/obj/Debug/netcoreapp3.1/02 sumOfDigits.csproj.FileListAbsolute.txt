@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\bin\Debug\netcoreapp3.1\02 sumOfDigits.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\obj\Debug\netcoreapp3.1\02 sumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\obj\Debug\netcoreapp3.1\02 sumOfDigits.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\obj\Debug\netcoreapp3.1\02 sumOfDigits.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\02 sumOfDigits\obj\Debug\netcoreapp3.1\02 sumOfDigits.pdb

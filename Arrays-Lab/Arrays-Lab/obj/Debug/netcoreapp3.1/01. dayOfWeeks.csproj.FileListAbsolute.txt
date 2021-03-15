@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.exe
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\bin\Debug\netcoreapp3.1\01. dayOfWeeks.pdb
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\obj\Debug\netcoreapp3.1\01. dayOfWeeks.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\obj\Debug\netcoreapp3.1\01. dayOfWeeks.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\obj\Debug\netcoreapp3.1\01. dayOfWeeks.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\obj\Debug\netcoreapp3.1\01. dayOfWeeks.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\Arrays-Lab\obj\Debug\netcoreapp3.1\01. dayOfWeeks.pdb

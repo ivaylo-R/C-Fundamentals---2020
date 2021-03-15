@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.exe
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.deps.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.dll
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\bin\Debug\netcoreapp3.1\01.messaging.pdb
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\obj\Debug\netcoreapp3.1\01.messaging.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\obj\Debug\netcoreapp3.1\01.messaging.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\obj\Debug\netcoreapp3.1\01.messaging.dll
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\obj\Debug\netcoreapp3.1\01.messaging.pdb
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\05.Lists- More ex\obj\Debug\netcoreapp3.1\01.messaging.csprojAssemblyReference.cache

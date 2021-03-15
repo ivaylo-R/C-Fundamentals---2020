@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.exe
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.deps.json
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\bin\Debug\netcoreapp3.1\01.SeaTrip.pdb
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\obj\Debug\netcoreapp3.1\01.SeaTrip.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\obj\Debug\netcoreapp3.1\01.SeaTrip.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\obj\Debug\netcoreapp3.1\01.SeaTrip.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\obj\Debug\netcoreapp3.1\01.SeaTrip.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\SampleExam\obj\Debug\netcoreapp3.1\01.SeaTrip.pdb

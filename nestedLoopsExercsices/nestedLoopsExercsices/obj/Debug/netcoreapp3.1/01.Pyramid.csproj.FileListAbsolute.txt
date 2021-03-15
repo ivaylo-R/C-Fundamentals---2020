@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.exe
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.deps.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\01.Pyramid.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\01.Pyramid.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\01.Pyramid.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\01.Pyramid.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\01.Pyramid.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\01.Pyramid.pdb

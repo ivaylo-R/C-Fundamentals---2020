@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.exe
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.deps.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.pdb
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.pdb

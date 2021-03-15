@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\bin\Debug\netcoreapp3.1\06_charityCampaign.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\obj\Debug\netcoreapp3.1\06_charityCampaign.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\obj\Debug\netcoreapp3.1\06_charityCampaign.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\obj\Debug\netcoreapp3.1\06_charityCampaign.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\obj\Debug\netcoreapp3.1\06_charityCampaign.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\06_charityCampaign\obj\Debug\netcoreapp3.1\06_charityCampaign.pdb

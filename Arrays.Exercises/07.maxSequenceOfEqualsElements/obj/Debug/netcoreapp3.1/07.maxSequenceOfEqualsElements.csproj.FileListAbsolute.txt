@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.exe
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.dll
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\bin\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.pdb
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\obj\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\obj\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\obj\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\obj\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.dll
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\07.maxSequenceOfEqualsElements\obj\Debug\netcoreapp3.1\07.maxSequenceOfEqualsElements.pdb

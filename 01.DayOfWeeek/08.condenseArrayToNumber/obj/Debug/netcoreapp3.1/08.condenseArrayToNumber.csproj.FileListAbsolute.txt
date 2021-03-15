@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\bin\Debug\netcoreapp3.1\08.condenseArrayToNumber.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\obj\Debug\netcoreapp3.1\08.condenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\obj\Debug\netcoreapp3.1\08.condenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\obj\Debug\netcoreapp3.1\08.condenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\obj\Debug\netcoreapp3.1\08.condenseArrayToNumber.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\08.condenseArrayToNumber\obj\Debug\netcoreapp3.1\08.condenseArrayToNumber.pdb

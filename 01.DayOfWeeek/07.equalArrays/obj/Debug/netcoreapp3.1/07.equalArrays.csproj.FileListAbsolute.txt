@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\bin\Debug\netcoreapp3.1\07.equalArrays.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\obj\Debug\netcoreapp3.1\07.equalArrays.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\obj\Debug\netcoreapp3.1\07.equalArrays.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\obj\Debug\netcoreapp3.1\07.equalArrays.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\obj\Debug\netcoreapp3.1\07.equalArrays.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\07.equalArrays\obj\Debug\netcoreapp3.1\07.equalArrays.pdb

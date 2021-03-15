@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.exe
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.deps.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\bin\Debug\netcoreapp3.1\04.Morse Code Translator.pdb
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\obj\Debug\netcoreapp3.1\04.Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\obj\Debug\netcoreapp3.1\04.Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\obj\Debug\netcoreapp3.1\04.Morse Code Translator.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\obj\Debug\netcoreapp3.1\04.Morse Code Translator.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\04.Morse Code Translator\obj\Debug\netcoreapp3.1\04.Morse Code Translator.pdb

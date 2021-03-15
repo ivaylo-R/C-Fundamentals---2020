@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\bin\Debug\netcoreapp3.1\02.Gauss' Trick.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\obj\Debug\netcoreapp3.1\02.Gauss' Trick.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\obj\Debug\netcoreapp3.1\02.Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\obj\Debug\netcoreapp3.1\02.Gauss' Trick.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\obj\Debug\netcoreapp3.1\02.Gauss' Trick.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\02.Gauss' Trick\obj\Debug\netcoreapp3.1\02.Gauss' Trick.pdb

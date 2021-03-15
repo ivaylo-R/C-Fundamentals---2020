@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.exe
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.deps.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\bin\Debug\netcoreapp3.1\06.MiddleCharatcters.pdb
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\obj\Debug\netcoreapp3.1\06.MiddleCharatcters.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\obj\Debug\netcoreapp3.1\06.MiddleCharatcters.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\obj\Debug\netcoreapp3.1\06.MiddleCharatcters.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\obj\Debug\netcoreapp3.1\06.MiddleCharatcters.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\06.MiddleCharatcters\obj\Debug\netcoreapp3.1\06.MiddleCharatcters.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\bin\Debug\netcoreapp3.1\08.TestFactorial.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\obj\Debug\netcoreapp3.1\08.TestFactorial.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\obj\Debug\netcoreapp3.1\08.TestFactorial.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\obj\Debug\netcoreapp3.1\08.TestFactorial.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\obj\Debug\netcoreapp3.1\08.TestFactorial.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\08.TestFactorial\obj\Debug\netcoreapp3.1\08.TestFactorial.csprojAssemblyReference.cache

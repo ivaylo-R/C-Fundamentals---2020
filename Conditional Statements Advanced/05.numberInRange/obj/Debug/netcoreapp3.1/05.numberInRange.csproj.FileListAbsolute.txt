@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.exe
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.deps.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\bin\Debug\netcoreapp3.1\05.numberInRange.pdb
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\obj\Debug\netcoreapp3.1\05.numberInRange.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\obj\Debug\netcoreapp3.1\05.numberInRange.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\obj\Debug\netcoreapp3.1\05.numberInRange.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\05.numberInRange\obj\Debug\netcoreapp3.1\05.numberInRange.pdb

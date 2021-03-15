@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\bin\Debug\netcoreapp3.1\07.ListManipulAdvanced.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulAdvanced.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulAdvanced.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulAdvanced.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulAdvanced.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\07.ListManipulAdvanced\obj\Debug\netcoreapp3.1\07.ListManipulAdvanced.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\bin\Debug\netcoreapp3.1\05_danceHall.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\obj\Debug\netcoreapp3.1\05_danceHall.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\obj\Debug\netcoreapp3.1\05_danceHall.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\obj\Debug\netcoreapp3.1\05_danceHall.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\obj\Debug\netcoreapp3.1\05_danceHall.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\05_danceHall\obj\Debug\netcoreapp3.1\05_danceHall.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\Data Types and Variables - Exercise.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\Data Types and Variables - Exercise.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\Data Types and Variables - Exercise.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\Data Types and Variables - Exercise.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\Data Types and Variables - Exercise.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\Data Types and Variables - Exercise.pdb

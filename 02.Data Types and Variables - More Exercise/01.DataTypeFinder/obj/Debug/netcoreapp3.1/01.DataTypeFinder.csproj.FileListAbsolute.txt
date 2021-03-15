@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.pdb

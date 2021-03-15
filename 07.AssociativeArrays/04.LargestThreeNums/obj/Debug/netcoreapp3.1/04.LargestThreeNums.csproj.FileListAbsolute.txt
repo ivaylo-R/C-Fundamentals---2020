@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\bin\Debug\netcoreapp3.1\04.LargestThreeNums.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\obj\Debug\netcoreapp3.1\04.LargestThreeNums.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\obj\Debug\netcoreapp3.1\04.LargestThreeNums.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\obj\Debug\netcoreapp3.1\04.LargestThreeNums.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays\04.LargestThreeNums\obj\Debug\netcoreapp3.1\04.LargestThreeNums.pdb

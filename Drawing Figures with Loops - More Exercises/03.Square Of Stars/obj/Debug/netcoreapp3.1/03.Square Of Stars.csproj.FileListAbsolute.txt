@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.exe
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.deps.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\bin\Debug\netcoreapp3.1\03.Square Of Stars.pdb
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\obj\Debug\netcoreapp3.1\03.Square Of Stars.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\obj\Debug\netcoreapp3.1\03.Square Of Stars.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\obj\Debug\netcoreapp3.1\03.Square Of Stars.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\obj\Debug\netcoreapp3.1\03.Square Of Stars.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\03.Square Of Stars\obj\Debug\netcoreapp3.1\03.Square Of Stars.pdb

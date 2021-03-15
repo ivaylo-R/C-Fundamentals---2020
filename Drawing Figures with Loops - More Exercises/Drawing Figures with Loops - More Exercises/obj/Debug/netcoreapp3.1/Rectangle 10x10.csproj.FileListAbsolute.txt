@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Rectangle 10x10.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Rectangle 10x10.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Rectangle 10x10.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.exe
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.deps.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Rectangle 10x10.pdb
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Rectangle 10x10.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Rectangle 10x10.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.exe
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.deps.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\bin\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.pdb
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\obj\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\obj\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\obj\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\obj\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.multiplyEvenByOdds2ndWay\obj\Debug\netcoreapp3.1\10.multiplyEvenByOdds2ndWay.pdb

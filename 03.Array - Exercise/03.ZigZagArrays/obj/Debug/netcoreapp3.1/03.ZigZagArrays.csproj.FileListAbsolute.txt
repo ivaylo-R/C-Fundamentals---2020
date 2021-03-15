@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.exe
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.deps.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.pdb
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.pdb

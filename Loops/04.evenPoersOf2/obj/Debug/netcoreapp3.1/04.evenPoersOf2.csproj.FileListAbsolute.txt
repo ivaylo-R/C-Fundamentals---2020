@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.exe
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.deps.json
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.dll
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\bin\Debug\netcoreapp3.1\04.evenPoersOf2.pdb
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\obj\Debug\netcoreapp3.1\04.evenPoersOf2.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\obj\Debug\netcoreapp3.1\04.evenPoersOf2.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\obj\Debug\netcoreapp3.1\04.evenPoersOf2.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\obj\Debug\netcoreapp3.1\04.evenPoersOf2.dll
+C:\Users\Ana-Maria\source\repos\Loops\04.evenPoersOf2\obj\Debug\netcoreapp3.1\04.evenPoersOf2.pdb

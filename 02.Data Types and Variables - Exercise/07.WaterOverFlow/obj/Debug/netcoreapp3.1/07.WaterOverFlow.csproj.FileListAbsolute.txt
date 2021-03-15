@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\bin\Debug\netcoreapp3.1\07.WaterOverFlow.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\obj\Debug\netcoreapp3.1\07.WaterOverFlow.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\obj\Debug\netcoreapp3.1\07.WaterOverFlow.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\obj\Debug\netcoreapp3.1\07.WaterOverFlow.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\obj\Debug\netcoreapp3.1\07.WaterOverFlow.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\07.WaterOverFlow\obj\Debug\netcoreapp3.1\07.WaterOverFlow.pdb

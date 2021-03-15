@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.exe
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.deps.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.dll
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\bin\Debug\netcoreapp3.1\01.DistanceCalculator.pdb
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp3.1\01.DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp3.1\01.DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp3.1\01.DistanceCalculator.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp3.1\01.DistanceCalculator.dll
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\obj\Debug\netcoreapp3.1\01.DistanceCalculator.pdb

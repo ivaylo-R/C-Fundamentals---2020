@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.exe
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\obj\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\obj\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.deps.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.dll
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\bin\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.pdb
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\obj\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\obj\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.dll
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni examResults 3rd way\obj\Debug\netcoreapp3.1\10.SoftUni examResults 3rd way.pdb

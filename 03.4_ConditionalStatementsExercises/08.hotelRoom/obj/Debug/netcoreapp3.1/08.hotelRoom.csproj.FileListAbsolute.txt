@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.exe
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.deps.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\bin\Debug\netcoreapp3.1\08.hotelRoom.pdb
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\obj\Debug\netcoreapp3.1\08.hotelRoom.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\obj\Debug\netcoreapp3.1\08.hotelRoom.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\obj\Debug\netcoreapp3.1\08.hotelRoom.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\obj\Debug\netcoreapp3.1\08.hotelRoom.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\08.hotelRoom\obj\Debug\netcoreapp3.1\08.hotelRoom.pdb

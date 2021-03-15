@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.exe
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.dll
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\obj\Debug\netcoreapp3.1\03.Combinations.dll
+C:\Users\Ana-Maria\source\repos\nestedLoops\03.cinemaTicket\obj\Debug\netcoreapp3.1\03.Combinations.pdb

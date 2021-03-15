@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.exe
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\bin\Debug\netcoreapp3.1\08.condenceArrayToANum.pdb
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\obj\Debug\netcoreapp3.1\08.condenceArrayToANum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\obj\Debug\netcoreapp3.1\08.condenceArrayToANum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\obj\Debug\netcoreapp3.1\08.condenceArrayToANum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\obj\Debug\netcoreapp3.1\08.condenceArrayToANum.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\08.condenceArrayToANum\obj\Debug\netcoreapp3.1\08.condenceArrayToANum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\bin\Debug\netcoreapp3.1\01_SecondsSum.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\obj\Debug\netcoreapp3.1\01_SecondsSum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\obj\Debug\netcoreapp3.1\01_SecondsSum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\obj\Debug\netcoreapp3.1\01_SecondsSum.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\ConditionalStatements-Exercices\obj\Debug\netcoreapp3.1\01_SecondsSum.pdb

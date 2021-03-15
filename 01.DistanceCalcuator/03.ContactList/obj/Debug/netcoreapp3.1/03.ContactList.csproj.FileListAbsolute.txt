@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.exe
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.deps.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.dll
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\bin\Debug\netcoreapp3.1\03.ContactList.pdb
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\obj\Debug\netcoreapp3.1\03.ContactList.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\obj\Debug\netcoreapp3.1\03.ContactList.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\obj\Debug\netcoreapp3.1\03.ContactList.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\obj\Debug\netcoreapp3.1\03.ContactList.dll
+C:\Users\Ana-Maria\source\repos\01.DistanceCalcuator\03.ContactList\obj\Debug\netcoreapp3.1\03.ContactList.pdb

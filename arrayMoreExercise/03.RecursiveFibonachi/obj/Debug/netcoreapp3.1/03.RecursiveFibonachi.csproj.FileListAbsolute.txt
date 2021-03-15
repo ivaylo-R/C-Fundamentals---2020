@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\bin\Debug\netcoreapp3.1\03.RecursiveFibonachi.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\obj\Debug\netcoreapp3.1\03.RecursiveFibonachi.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\obj\Debug\netcoreapp3.1\03.RecursiveFibonachi.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\obj\Debug\netcoreapp3.1\03.RecursiveFibonachi.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\obj\Debug\netcoreapp3.1\03.RecursiveFibonachi.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\03.RecursiveFibonachi\obj\Debug\netcoreapp3.1\03.RecursiveFibonachi.pdb

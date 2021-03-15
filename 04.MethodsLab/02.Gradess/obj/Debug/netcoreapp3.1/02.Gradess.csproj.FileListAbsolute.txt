@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\bin\Debug\netcoreapp3.1\02.Gradess.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\obj\Debug\netcoreapp3.1\02.Gradess.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\obj\Debug\netcoreapp3.1\02.Gradess.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\obj\Debug\netcoreapp3.1\02.Gradess.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\obj\Debug\netcoreapp3.1\02.Gradess.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsLab\02.Gradess\obj\Debug\netcoreapp3.1\02.Gradess.pdb

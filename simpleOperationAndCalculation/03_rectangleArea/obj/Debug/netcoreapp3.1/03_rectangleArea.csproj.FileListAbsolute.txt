@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\bin\Debug\netcoreapp3.1\03_rectangleArea.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\obj\Debug\netcoreapp3.1\03_rectangleArea.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\obj\Debug\netcoreapp3.1\03_rectangleArea.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\obj\Debug\netcoreapp3.1\03_rectangleArea.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\03_rectangleArea\obj\Debug\netcoreapp3.1\03_rectangleArea.pdb

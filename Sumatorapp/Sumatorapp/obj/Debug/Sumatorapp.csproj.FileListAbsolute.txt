@@ -1,0 +1,9 @@
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\bin\Debug\Sumatorapp.exe.config
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\bin\Debug\Sumatorapp.exe
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\bin\Debug\Sumatorapp.pdb
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.Form1.resources
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.Properties.Resources.resources
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.csproj.GenerateResource.cache
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.exe
+C:\Users\Ana-Maria\source\repos\Sumatorapp\Sumatorapp\obj\Debug\Sumatorapp.pdb

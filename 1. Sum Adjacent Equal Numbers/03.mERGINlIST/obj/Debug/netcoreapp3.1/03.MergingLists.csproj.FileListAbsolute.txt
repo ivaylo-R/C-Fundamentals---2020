@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.exe
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.deps.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\bin\Debug\netcoreapp3.1\03.MergingLists.pdb
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\obj\Debug\netcoreapp3.1\03.MergingLists.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\obj\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\03.mERGINlIST\obj\Debug\netcoreapp3.1\03.MergingLists.pdb

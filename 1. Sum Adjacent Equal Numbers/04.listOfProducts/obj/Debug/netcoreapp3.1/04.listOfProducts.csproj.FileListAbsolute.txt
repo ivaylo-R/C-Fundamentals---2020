@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.exe
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.deps.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\bin\Debug\netcoreapp3.1\04.listOfProducts.pdb
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\obj\Debug\netcoreapp3.1\04.listOfProducts.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\obj\Debug\netcoreapp3.1\04.listOfProducts.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\obj\Debug\netcoreapp3.1\04.listOfProducts.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\04.listOfProducts\obj\Debug\netcoreapp3.1\04.listOfProducts.pdb

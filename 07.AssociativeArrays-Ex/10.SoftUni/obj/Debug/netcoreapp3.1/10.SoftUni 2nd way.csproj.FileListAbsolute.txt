@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.exe
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.deps.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.dll
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\bin\Debug\netcoreapp3.1\10.SoftUni 2nd way.pdb
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\obj\Debug\netcoreapp3.1\10.SoftUni 2nd way.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\obj\Debug\netcoreapp3.1\10.SoftUni 2nd way.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\obj\Debug\netcoreapp3.1\10.SoftUni 2nd way.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\obj\Debug\netcoreapp3.1\10.SoftUni 2nd way.dll
+C:\Users\Ana-Maria\source\repos\Ivo\07.AssociativeArrays-Ex\10.SoftUni\obj\Debug\netcoreapp3.1\10.SoftUni 2nd way.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\bin\Debug\netcoreapp3.1\04.num1_9ToText.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\obj\Debug\netcoreapp3.1\04.num1_9ToText.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\obj\Debug\netcoreapp3.1\04.num1_9ToText.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\obj\Debug\netcoreapp3.1\04.num1_9ToText.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\obj\Debug\netcoreapp3.1\04.num1_9ToText.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\04.num1_9ToText\obj\Debug\netcoreapp3.1\04.num1_9ToText.pdb

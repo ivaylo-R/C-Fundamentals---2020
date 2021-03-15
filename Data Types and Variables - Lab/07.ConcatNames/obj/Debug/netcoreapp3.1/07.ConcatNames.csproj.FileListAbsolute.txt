@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.pdb

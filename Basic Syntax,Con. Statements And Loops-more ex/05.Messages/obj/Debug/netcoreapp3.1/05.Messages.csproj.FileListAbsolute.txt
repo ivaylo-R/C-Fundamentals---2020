@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.pdb

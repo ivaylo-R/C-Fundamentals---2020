@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.exe
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.deps.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\bin\Debug\netcoreapp3.1\09.TextProcessing-Exerc.pdb
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\obj\Debug\netcoreapp3.1\09.TextProcessing-Exerc.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\obj\Debug\netcoreapp3.1\09.TextProcessing-Exerc.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\obj\Debug\netcoreapp3.1\09.TextProcessing-Exerc.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\09.TextProcessing-Exerc\obj\Debug\netcoreapp3.1\09.TextProcessing-Exerc.pdb

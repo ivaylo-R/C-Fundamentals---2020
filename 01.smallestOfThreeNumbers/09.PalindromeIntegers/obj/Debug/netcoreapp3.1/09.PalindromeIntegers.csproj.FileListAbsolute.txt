@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.exe
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.deps.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.pdb
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.pdb

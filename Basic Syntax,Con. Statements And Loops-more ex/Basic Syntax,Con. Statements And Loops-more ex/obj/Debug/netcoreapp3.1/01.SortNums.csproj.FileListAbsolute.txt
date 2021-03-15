@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\bin\Debug\netcoreapp3.1\01.SortNums.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\obj\Debug\netcoreapp3.1\01.SortNums.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\obj\Debug\netcoreapp3.1\01.SortNums.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\obj\Debug\netcoreapp3.1\01.SortNums.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\obj\Debug\netcoreapp3.1\01.SortNums.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\Basic Syntax,Con. Statements And Loops-more ex\obj\Debug\netcoreapp3.1\01.SortNums.pdb

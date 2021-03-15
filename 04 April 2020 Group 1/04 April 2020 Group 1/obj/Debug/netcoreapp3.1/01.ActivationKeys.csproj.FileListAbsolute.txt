@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\obj\Debug\netcoreapp3.1\01.ActivationKeys.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\04 April 2020 Group 1\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb

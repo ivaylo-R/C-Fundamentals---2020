@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\bin\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\obj\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\obj\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\obj\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\obj\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Exercise\06. Tripple Of Latin Letters\obj\Debug\netcoreapp3.1\06. Tripple Of Latin Letters.pdb

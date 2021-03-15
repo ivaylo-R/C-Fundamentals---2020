@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\bin\Debug\netcoreapp3.1\08.factorialDivision.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\obj\Debug\netcoreapp3.1\08.factorialDivision.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\obj\Debug\netcoreapp3.1\08.factorialDivision.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\obj\Debug\netcoreapp3.1\08.factorialDivision.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\obj\Debug\netcoreapp3.1\08.factorialDivision.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\08.factorialDivision\obj\Debug\netcoreapp3.1\08.factorialDivision.csprojAssemblyReference.cache

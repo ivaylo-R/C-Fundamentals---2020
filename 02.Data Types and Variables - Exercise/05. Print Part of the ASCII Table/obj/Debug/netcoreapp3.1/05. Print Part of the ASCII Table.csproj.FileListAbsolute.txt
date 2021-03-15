@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - Exercise\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.pdb

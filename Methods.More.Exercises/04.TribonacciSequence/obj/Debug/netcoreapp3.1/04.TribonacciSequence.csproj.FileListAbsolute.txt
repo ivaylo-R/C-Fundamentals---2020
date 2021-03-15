@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.exe
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.deps.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.pdb
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.pdb
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.csprojAssemblyReference.cache

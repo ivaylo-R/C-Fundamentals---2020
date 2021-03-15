@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.exe
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.deps.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.dll
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\bin\Debug\netcoreapp3.1\0.MathFullName.pdb
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\obj\Debug\netcoreapp3.1\0.MathFullName.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\obj\Debug\netcoreapp3.1\0.MathFullName.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\obj\Debug\netcoreapp3.1\0.MathFullName.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\obj\Debug\netcoreapp3.1\0.MathFullName.dll
+C:\Users\Ana-Maria\source\repos\10.RegexLab\10.RegexLab\obj\Debug\netcoreapp3.1\0.MathFullName.pdb

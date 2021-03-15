@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.exe
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.deps.json
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.dll
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\bin\Debug\netcoreapp3.1\02.Numbers1ToN.pdb
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\obj\Debug\netcoreapp3.1\02.Numbers1ToN.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\obj\Debug\netcoreapp3.1\02.Numbers1ToN.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\obj\Debug\netcoreapp3.1\02.Numbers1ToN.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\obj\Debug\netcoreapp3.1\02.Numbers1ToN.dll
+C:\Users\Ana-Maria\source\repos\Loops\02.Numbers1ToN\obj\Debug\netcoreapp3.1\02.Numbers1ToN.pdb

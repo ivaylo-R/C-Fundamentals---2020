@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\bin\Debug\netcoreapp3.1\08.scholarShip.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\obj\Debug\netcoreapp3.1\08.scholarShip.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\obj\Debug\netcoreapp3.1\08.scholarShip.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\obj\Debug\netcoreapp3.1\08.scholarShip.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\obj\Debug\netcoreapp3.1\08.scholarShip.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\08.scholarShip\obj\Debug\netcoreapp3.1\08.scholarShip.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\bin\Debug\netcoreapp3.1\02_radiansToDegrees.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\obj\Debug\netcoreapp3.1\02_radiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\obj\Debug\netcoreapp3.1\02_radiansToDegrees.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\obj\Debug\netcoreapp3.1\02_radiansToDegrees.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\obj\Debug\netcoreapp3.1\02_radiansToDegrees.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_radiansToDegrees\obj\Debug\netcoreapp3.1\02_radiansToDegrees.csprojAssemblyReference.cache

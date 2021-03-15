@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb

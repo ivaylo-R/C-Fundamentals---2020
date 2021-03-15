@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.exe
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.deps.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.pdb
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\10.MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvenByOdds.pdb

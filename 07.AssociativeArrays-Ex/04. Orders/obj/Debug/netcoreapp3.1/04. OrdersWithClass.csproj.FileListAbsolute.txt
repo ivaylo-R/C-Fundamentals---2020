@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\bin\Debug\netcoreapp3.1\04. OrdersWithClass.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\obj\Debug\netcoreapp3.1\04. OrdersWithClass.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\obj\Debug\netcoreapp3.1\04. OrdersWithClass.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\obj\Debug\netcoreapp3.1\04. OrdersWithClass.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\obj\Debug\netcoreapp3.1\04. OrdersWithClass.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\04. Orders\obj\Debug\netcoreapp3.1\04. OrdersWithClass.pdb

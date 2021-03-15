@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\bin\Debug\netcoreapp3.1\10.DEMO.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\obj\Debug\netcoreapp3.1\10.DEMO.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\obj\Debug\netcoreapp3.1\10.DEMO.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\obj\Debug\netcoreapp3.1\10.DEMO.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\10.DEMO\obj\Debug\netcoreapp3.1\10.DEMO.pdb

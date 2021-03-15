@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.pdb

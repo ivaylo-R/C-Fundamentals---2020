@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.exe
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.deps.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\bin\Debug\netcoreapp3.1\02.GaussTrick.pdb
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.dll
+C:\Users\Ana-Maria\source\repos\1. Sum Adjacent Equal Numbers\02.GaussTrick\obj\Debug\netcoreapp3.1\02.GaussTrick.pdb

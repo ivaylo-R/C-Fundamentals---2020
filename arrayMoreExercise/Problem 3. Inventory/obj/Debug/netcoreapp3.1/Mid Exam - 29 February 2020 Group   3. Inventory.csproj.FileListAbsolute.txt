@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\Problem 3. Inventory\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group   3. Inventory.pdb

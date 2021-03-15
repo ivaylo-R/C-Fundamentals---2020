@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\bin\Debug\netcoreapp3.1\07.minNumber.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\obj\Debug\netcoreapp3.1\07.minNumber.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\obj\Debug\netcoreapp3.1\07.minNumber.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\obj\Debug\netcoreapp3.1\07.minNumber.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\07.minNumber\obj\Debug\netcoreapp3.1\07.minNumber.pdb

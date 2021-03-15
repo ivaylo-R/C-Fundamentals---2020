@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.exe
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.deps.json
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\bin\Debug\netcoreapp3.1\04.Bus.pdb
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\obj\Debug\netcoreapp3.1\04.Bus.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\obj\Debug\netcoreapp3.1\04.Bus.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\obj\Debug\netcoreapp3.1\04.Bus.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\obj\Debug\netcoreapp3.1\04.Bus.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\04.Bus\obj\Debug\netcoreapp3.1\04.Bus.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\bin\Debug\netcoreapp3.1\05.Coins.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\obj\Debug\netcoreapp3.1\05.Coins.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\Loops.Part2.exercises\obj\Debug\netcoreapp3.1\05.Coins.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\obj\Debug\netcoreapp3.1\03.Take.Skip Rope.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\obj\Debug\netcoreapp3.1\03.Take.Skip Rope.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\obj\Debug\netcoreapp3.1\03.Take.Skip Rope.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.exe
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.deps.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.dll
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\bin\Debug\netcoreapp3.1\03.Take.Skip Rope.pdb
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\obj\Debug\netcoreapp3.1\03.Take.Skip Rope.dll
+C:\Users\Ana-Maria\source\repos\05.Lists- More ex\03.Take.Skip Rope\obj\Debug\netcoreapp3.1\03.Take.Skip Rope.pdb

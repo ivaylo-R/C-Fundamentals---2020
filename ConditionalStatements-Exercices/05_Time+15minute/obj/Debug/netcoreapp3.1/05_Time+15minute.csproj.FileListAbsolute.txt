@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\bin\Debug\netcoreapp3.1\05_Time+15minute.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\obj\Debug\netcoreapp3.1\05_Time+15minute.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\obj\Debug\netcoreapp3.1\05_Time+15minute.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\obj\Debug\netcoreapp3.1\05_Time+15minute.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\obj\Debug\netcoreapp3.1\05_Time+15minute.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\05_Time+15minute\obj\Debug\netcoreapp3.1\05_Time+15minute.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.exe
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.deps.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.dll
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.pdb
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.dll
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\bin\Debug\netcoreapp3.1\asd.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\obj\Debug\netcoreapp3.1\asd.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\obj\Debug\netcoreapp3.1\asd.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\obj\Debug\netcoreapp3.1\asd.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\demos\obj\Debug\netcoreapp3.1\asd.pdb

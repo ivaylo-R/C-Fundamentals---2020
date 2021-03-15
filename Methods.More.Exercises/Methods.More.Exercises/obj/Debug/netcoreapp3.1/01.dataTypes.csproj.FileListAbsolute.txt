@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.exe
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.deps.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\bin\Debug\netcoreapp3.1\01.dataTypes.pdb
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\obj\Debug\netcoreapp3.1\01.dataTypes.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\obj\Debug\netcoreapp3.1\01.dataTypes.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\obj\Debug\netcoreapp3.1\01.dataTypes.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\obj\Debug\netcoreapp3.1\01.dataTypes.pdb
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\Methods.More.Exercises\obj\Debug\netcoreapp3.1\01.dataTypes.csprojAssemblyReference.cache

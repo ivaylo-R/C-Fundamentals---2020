@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\obj\Debug\netcoreapp3.1\03.MergingList.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\obj\Debug\netcoreapp3.1\03.MergingList.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\obj\Debug\netcoreapp3.1\03.MergingList.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\bin\Debug\netcoreapp3.1\03.MergingList.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\obj\Debug\netcoreapp3.1\03.MergingList.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\03.MergingList\obj\Debug\netcoreapp3.1\03.MergingList.pdb

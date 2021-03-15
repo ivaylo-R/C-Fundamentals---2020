@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.exe
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.deps.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.pdb
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.dll
+C:\Users\Ana-Maria\source\repos\Data Types and Variables - Lab\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.pdb

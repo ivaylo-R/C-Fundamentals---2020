@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.exe
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.deps.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\bin\Debug\netcoreapp3.1\3.TreasureFinder.pdb
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\obj\Debug\netcoreapp3.1\3.TreasureFinder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\obj\Debug\netcoreapp3.1\3.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\obj\Debug\netcoreapp3.1\3.TreasureFinder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\obj\Debug\netcoreapp3.1\3.TreasureFinder.dll
+C:\Users\Ana-Maria\source\repos\09.TextProcessing-Exerc\3.TreasureFinder\obj\Debug\netcoreapp3.1\3.TreasureFinder.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\bin\Debug\netcoreapp3.1\03_speedInformation.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\obj\Debug\netcoreapp3.1\03_speedInformation.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\obj\Debug\netcoreapp3.1\03_speedInformation.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\obj\Debug\netcoreapp3.1\03_speedInformation.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\obj\Debug\netcoreapp3.1\03_speedInformation.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\03_speedInformation\obj\Debug\netcoreapp3.1\03_speedInformation.pdb

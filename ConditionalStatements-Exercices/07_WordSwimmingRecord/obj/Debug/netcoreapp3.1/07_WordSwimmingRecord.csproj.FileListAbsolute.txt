@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\bin\Debug\netcoreapp3.1\07_WordSwimmingRecord.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\obj\Debug\netcoreapp3.1\07_WordSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\obj\Debug\netcoreapp3.1\07_WordSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\obj\Debug\netcoreapp3.1\07_WordSwimmingRecord.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\obj\Debug\netcoreapp3.1\07_WordSwimmingRecord.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\07_WordSwimmingRecord\obj\Debug\netcoreapp3.1\07_WordSwimmingRecord.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\bin\Debug\netcoreapp3.1\06.StrongNum.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\obj\Debug\netcoreapp3.1\06.StrongNum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\obj\Debug\netcoreapp3.1\06.StrongNum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\obj\Debug\netcoreapp3.1\06.StrongNum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\obj\Debug\netcoreapp3.1\06.StrongNum.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06.StrongNum\obj\Debug\netcoreapp3.1\06.StrongNum.pdb

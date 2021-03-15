@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.multiplyTable.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.multiplyTable.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.multiplyTable.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.exe
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.deps.json
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.multiplyTable.pdb
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.multiplyTable.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.multiplyTable.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.exe
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.deps.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEvenPossition.pdb
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEvenPossition.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEvenPossition.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEvenPossition.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEvenPossition.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEvenPossition.pdb

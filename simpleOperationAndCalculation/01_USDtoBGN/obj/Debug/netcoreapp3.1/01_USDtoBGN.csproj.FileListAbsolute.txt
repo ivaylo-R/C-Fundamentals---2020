@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\bin\Debug\netcoreapp3.1\01_USDtoBGN.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\obj\Debug\netcoreapp3.1\01_USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\obj\Debug\netcoreapp3.1\01_USDtoBGN.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\obj\Debug\netcoreapp3.1\01_USDtoBGN.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\01_USDtoBGN\obj\Debug\netcoreapp3.1\01_USDtoBGN.pdb

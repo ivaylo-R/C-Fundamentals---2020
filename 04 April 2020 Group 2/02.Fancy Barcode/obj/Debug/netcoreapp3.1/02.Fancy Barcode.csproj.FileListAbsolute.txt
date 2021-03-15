@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.exe
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.deps.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\bin\Debug\netcoreapp3.1\02.Fancy Barcode.pdb
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\obj\Debug\netcoreapp3.1\02.Fancy Barcode.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\obj\Debug\netcoreapp3.1\02.Fancy Barcode.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\obj\Debug\netcoreapp3.1\02.Fancy Barcode.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\obj\Debug\netcoreapp3.1\02.Fancy Barcode.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 2\02.Fancy Barcode\obj\Debug\netcoreapp3.1\02.Fancy Barcode.pdb

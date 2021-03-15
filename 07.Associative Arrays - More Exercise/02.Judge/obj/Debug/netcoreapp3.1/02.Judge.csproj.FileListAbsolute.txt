@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.exe
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.deps.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\bin\Debug\netcoreapp3.1\02.Judge.pdb
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\obj\Debug\netcoreapp3.1\02.Judge.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\obj\Debug\netcoreapp3.1\02.Judge.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\obj\Debug\netcoreapp3.1\02.Judge.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\obj\Debug\netcoreapp3.1\02.Judge.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\02.Judge\obj\Debug\netcoreapp3.1\02.Judge.pdb

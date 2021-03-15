@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.exe
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.deps.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamWorkProjects.pdb
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamWorkProjects.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamWorkProjects.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamWorkProjects.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamWorkProjects.pdb

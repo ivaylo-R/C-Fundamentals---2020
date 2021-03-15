@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\bin\Debug\netcoreapp3.1\03.Tripp.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\obj\Debug\netcoreapp3.1\03.Tripp.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\obj\Debug\netcoreapp3.1\03.Tripp.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\obj\Debug\netcoreapp3.1\03.Tripp.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\obj\Debug\netcoreapp3.1\03.Tripp.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\03.Tripp\obj\Debug\netcoreapp3.1\03.Tripp.pdb

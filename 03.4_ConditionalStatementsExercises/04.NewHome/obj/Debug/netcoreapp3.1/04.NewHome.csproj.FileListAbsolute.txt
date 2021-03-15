@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.exe
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.deps.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\bin\Debug\netcoreapp3.1\04.NewHome.pdb
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\obj\Debug\netcoreapp3.1\04.NewHome.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\obj\Debug\netcoreapp3.1\04.NewHome.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\obj\Debug\netcoreapp3.1\04.NewHome.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\obj\Debug\netcoreapp3.1\04.NewHome.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\04.NewHome\obj\Debug\netcoreapp3.1\04.NewHome.pdb

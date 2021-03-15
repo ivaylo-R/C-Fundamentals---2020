@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\bin\Debug\netcoreapp3.1\Aquarium.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\obj\Debug\netcoreapp3.1\Aquarium.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\obj\Debug\netcoreapp3.1\Aquarium.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\simpleOperationAndCalculation\obj\Debug\netcoreapp3.1\Aquarium.csprojAssemblyReference.cache

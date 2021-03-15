@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.exe
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.deps.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\bin\Debug\netcoreapp3.1\02.cinema.pdb
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\obj\Debug\netcoreapp3.1\02.cinema.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\obj\Debug\netcoreapp3.1\02.cinema.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\obj\Debug\netcoreapp3.1\02.cinema.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\02.cinema\obj\Debug\netcoreapp3.1\02.cinema.pdb

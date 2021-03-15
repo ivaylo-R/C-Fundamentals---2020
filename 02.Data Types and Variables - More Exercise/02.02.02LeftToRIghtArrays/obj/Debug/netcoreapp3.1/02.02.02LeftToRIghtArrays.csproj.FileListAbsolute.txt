@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\bin\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\obj\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\obj\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\obj\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02.02LeftToRIghtArrays\obj\Debug\netcoreapp3.1\02.02.02LeftToRIghtArrays.pdb

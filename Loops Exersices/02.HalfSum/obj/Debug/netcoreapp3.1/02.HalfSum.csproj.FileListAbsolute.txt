@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.exe
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.deps.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\bin\Debug\netcoreapp3.1\02.HalfSum.pdb
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\obj\Debug\netcoreapp3.1\02.HalfSum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\obj\Debug\netcoreapp3.1\02.HalfSum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\obj\Debug\netcoreapp3.1\02.HalfSum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\obj\Debug\netcoreapp3.1\02.HalfSum.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\02.HalfSum\obj\Debug\netcoreapp3.1\02.HalfSum.pdb

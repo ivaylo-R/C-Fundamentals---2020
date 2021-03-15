@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.exe
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.deps.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\bin\Debug\netcoreapp3.1\01.ranking.pdb
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\obj\Debug\netcoreapp3.1\01.ranking.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\obj\Debug\netcoreapp3.1\01.ranking.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\obj\Debug\netcoreapp3.1\01.ranking.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\obj\Debug\netcoreapp3.1\01.ranking.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\07.Associative Arrays - More Exercise\obj\Debug\netcoreapp3.1\01.ranking.pdb

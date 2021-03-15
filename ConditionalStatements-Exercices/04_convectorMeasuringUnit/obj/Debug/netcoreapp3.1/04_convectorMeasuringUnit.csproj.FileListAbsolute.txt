@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\bin\Debug\netcoreapp3.1\04_convectorMeasuringUnit.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\obj\Debug\netcoreapp3.1\04_convectorMeasuringUnit.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\obj\Debug\netcoreapp3.1\04_convectorMeasuringUnit.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\obj\Debug\netcoreapp3.1\04_convectorMeasuringUnit.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\obj\Debug\netcoreapp3.1\04_convectorMeasuringUnit.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\04_convectorMeasuringUnit\obj\Debug\netcoreapp3.1\04_convectorMeasuringUnit.pdb

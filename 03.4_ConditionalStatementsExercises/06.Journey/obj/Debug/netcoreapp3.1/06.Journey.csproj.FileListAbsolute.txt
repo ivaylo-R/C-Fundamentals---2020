@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.exe
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.deps.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.pdb
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.dll
+C:\Users\Ana-Maria\source\repos\03.4_ConditionalStatementsExercises\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.pdb

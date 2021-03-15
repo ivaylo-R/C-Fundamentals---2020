@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\bin\Debug\netcoreapp3.1\03_EvenOrOdd.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\obj\Debug\netcoreapp3.1\03_EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\obj\Debug\netcoreapp3.1\03_EvenOrOdd.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\obj\Debug\netcoreapp3.1\03_EvenOrOdd.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\03_EvenOdd\obj\Debug\netcoreapp3.1\03_EvenOrOdd.pdb

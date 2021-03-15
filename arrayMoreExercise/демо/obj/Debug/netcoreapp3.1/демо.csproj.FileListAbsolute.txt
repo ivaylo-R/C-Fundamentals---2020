@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\obj\Debug\netcoreapp3.1\демо.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\obj\Debug\netcoreapp3.1\демо.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\obj\Debug\netcoreapp3.1\демо.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\bin\Debug\netcoreapp3.1\демо.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\obj\Debug\netcoreapp3.1\демо.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\демо\obj\Debug\netcoreapp3.1\демо.pdb

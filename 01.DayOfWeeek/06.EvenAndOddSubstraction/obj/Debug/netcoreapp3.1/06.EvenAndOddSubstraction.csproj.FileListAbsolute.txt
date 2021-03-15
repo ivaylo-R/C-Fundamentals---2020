@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\06.EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubstraction.pdb

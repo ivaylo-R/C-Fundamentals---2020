@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.exe
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.deps.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\bin\Debug\netcoreapp3.1\09.PokeMon Dont Go.pdb
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\09.PokeMon Dont Go\obj\Debug\netcoreapp3.1\09.PokeMon Dont Go.pdb

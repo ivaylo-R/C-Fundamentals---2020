@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.exe
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.deps.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\bin\Debug\netcoreapp3.1\01.Train.pdb
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\obj\Debug\netcoreapp3.1\01.Train.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\obj\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\05.List-Exercise\obj\Debug\netcoreapp3.1\01.Train.pdb

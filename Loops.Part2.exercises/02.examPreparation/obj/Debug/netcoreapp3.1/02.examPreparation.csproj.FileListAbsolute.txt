@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\bin\Debug\netcoreapp3.1\02.examPreparation.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\obj\Debug\netcoreapp3.1\02.examPreparation.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\obj\Debug\netcoreapp3.1\02.examPreparation.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\obj\Debug\netcoreapp3.1\02.examPreparation.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\obj\Debug\netcoreapp3.1\02.examPreparation.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\02.examPreparation\obj\Debug\netcoreapp3.1\02.examPreparation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.exe
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.deps.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+C:\Users\Ana-Maria\source\repos\01.DayOfWeeek\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb

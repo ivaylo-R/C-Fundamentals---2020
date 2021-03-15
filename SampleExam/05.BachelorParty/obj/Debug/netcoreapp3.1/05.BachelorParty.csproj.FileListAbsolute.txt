@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.exe
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.deps.json
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\bin\Debug\netcoreapp3.1\05.BachelorParty.pdb
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\obj\Debug\netcoreapp3.1\05.BachelorParty.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\obj\Debug\netcoreapp3.1\05.BachelorParty.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\obj\Debug\netcoreapp3.1\05.BachelorParty.dll
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\obj\Debug\netcoreapp3.1\05.BachelorParty.pdb
+C:\Users\Ana-Maria\source\repos\SampleExam\05.BachelorParty\obj\Debug\netcoreapp3.1\05.BachelorParty.csprojAssemblyReference.cache

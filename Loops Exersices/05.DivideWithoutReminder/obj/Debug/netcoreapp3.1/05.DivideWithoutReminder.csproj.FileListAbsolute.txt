@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.exe
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.deps.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\bin\Debug\netcoreapp3.1\05.DivideWithoutReminder.pdb
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\obj\Debug\netcoreapp3.1\05.DivideWithoutReminder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\obj\Debug\netcoreapp3.1\05.DivideWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\obj\Debug\netcoreapp3.1\05.DivideWithoutReminder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\obj\Debug\netcoreapp3.1\05.DivideWithoutReminder.dll
+C:\Users\Ana-Maria\source\repos\Loops Exersices\05.DivideWithoutReminder\obj\Debug\netcoreapp3.1\05.DivideWithoutReminder.pdb

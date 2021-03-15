@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.exe
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.deps.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\bin\Debug\netcoreapp3.1\09.palindromeInteger.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\obj\Debug\netcoreapp3.1\09.palindromeInteger.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\obj\Debug\netcoreapp3.1\09.palindromeInteger.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\obj\Debug\netcoreapp3.1\09.palindromeInteger.dll
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\obj\Debug\netcoreapp3.1\09.palindromeInteger.pdb
+C:\Users\Ana-Maria\source\repos\04.MethodsExer\09.palindromeInteger\obj\Debug\netcoreapp3.1\09.palindromeInteger.csprojAssemblyReference.cache

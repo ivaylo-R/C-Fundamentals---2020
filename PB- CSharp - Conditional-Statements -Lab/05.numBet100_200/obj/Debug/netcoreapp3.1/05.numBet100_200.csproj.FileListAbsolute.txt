@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\bin\Debug\netcoreapp3.1\05.numBet100_200.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\obj\Debug\netcoreapp3.1\05.numBet100_200.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\obj\Debug\netcoreapp3.1\05.numBet100_200.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\obj\Debug\netcoreapp3.1\05.numBet100_200.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\05.numBet100_200\obj\Debug\netcoreapp3.1\05.numBet100_200.pdb

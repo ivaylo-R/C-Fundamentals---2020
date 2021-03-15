@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb

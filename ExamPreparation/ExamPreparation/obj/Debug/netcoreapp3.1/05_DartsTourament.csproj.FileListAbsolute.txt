@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.exe
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.deps.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.dll
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\05_DartsTourament.pdb
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\05_DartsTourament.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\05_DartsTourament.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\05_DartsTourament.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\05_DartsTourament.dll
+C:\Users\Ana-Maria\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\05_DartsTourament.pdb

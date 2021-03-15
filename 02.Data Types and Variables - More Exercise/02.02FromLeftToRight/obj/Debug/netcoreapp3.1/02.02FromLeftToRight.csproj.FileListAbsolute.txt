@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.exe
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.deps.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\bin\Debug\netcoreapp3.1\02.02FromLeftToRight.pdb
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\obj\Debug\netcoreapp3.1\02.02FromLeftToRight.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\obj\Debug\netcoreapp3.1\02.02FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\obj\Debug\netcoreapp3.1\02.02FromLeftToRight.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\obj\Debug\netcoreapp3.1\02.02FromLeftToRight.dll
+C:\Users\Ana-Maria\source\repos\02.Data Types and Variables - More Exercise\02.02FromLeftToRight\obj\Debug\netcoreapp3.1\02.02FromLeftToRight.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.exe
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.deps.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\bin\Debug\netcoreapp3.1\02.eMOJIdETECTOR.pdb
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\obj\Debug\netcoreapp3.1\02.eMOJIdETECTOR.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\obj\Debug\netcoreapp3.1\02.eMOJIdETECTOR.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\obj\Debug\netcoreapp3.1\02.eMOJIdETECTOR.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\obj\Debug\netcoreapp3.1\02.eMOJIdETECTOR.dll
+C:\Users\Ana-Maria\source\repos\04 April 2020 Group 1\02.eMOJIdETECTOR\obj\Debug\netcoreapp3.1\02.eMOJIdETECTOR.pdb

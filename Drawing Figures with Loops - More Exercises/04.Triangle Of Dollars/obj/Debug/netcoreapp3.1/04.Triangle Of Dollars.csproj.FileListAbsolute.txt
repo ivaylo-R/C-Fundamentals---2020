@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.exe
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.deps.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\bin\Debug\netcoreapp3.1\04.Triangle Of Dollars.pdb
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\obj\Debug\netcoreapp3.1\04.Triangle Of Dollars.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\obj\Debug\netcoreapp3.1\04.Triangle Of Dollars.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\obj\Debug\netcoreapp3.1\04.Triangle Of Dollars.dll
+C:\Users\Ana-Maria\source\repos\Drawing Figures with Loops - More Exercises\04.Triangle Of Dollars\obj\Debug\netcoreapp3.1\04.Triangle Of Dollars.pdb

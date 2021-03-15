@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\bin\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.MuOnline\obj\Debug\netcoreapp3.1\Mid Exam - 29 February 2020 Group  02.MuOnline.pdb

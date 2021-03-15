@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.exe
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.deps.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.dll
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\bin\Debug\netcoreapp3.1\04.EnigmaStar.pdb
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\obj\Debug\netcoreapp3.1\04.EnigmaStar.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\obj\Debug\netcoreapp3.1\04.EnigmaStar.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\obj\Debug\netcoreapp3.1\04.EnigmaStar.dll
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\obj\Debug\netcoreapp3.1\04.EnigmaStar.pdb
+C:\Users\Ana-Maria\source\repos\10.Regex-Exercise\04.EnigmaStar\obj\Debug\netcoreapp3.1\04.EnigmaStar.csprojAssemblyReference.cache

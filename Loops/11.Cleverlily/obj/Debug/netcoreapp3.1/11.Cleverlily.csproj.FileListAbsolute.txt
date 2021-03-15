@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.exe
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.deps.json
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.dll
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\bin\Debug\netcoreapp3.1\11.Cleverlily.pdb
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\obj\Debug\netcoreapp3.1\11.Cleverlily.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\obj\Debug\netcoreapp3.1\11.Cleverlily.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\obj\Debug\netcoreapp3.1\11.Cleverlily.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\obj\Debug\netcoreapp3.1\11.Cleverlily.dll
+C:\Users\Ana-Maria\source\repos\Loops\11.Cleverlily\obj\Debug\netcoreapp3.1\11.Cleverlily.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.exe
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.deps.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\bin\Debug\netcoreapp3.1\08.toyShop.pdb
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\obj\Debug\netcoreapp3.1\08.toyShop.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\obj\Debug\netcoreapp3.1\08.toyShop.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\obj\Debug\netcoreapp3.1\08.toyShop.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\obj\Debug\netcoreapp3.1\08.toyShop.dll
+C:\Users\Ana-Maria\source\repos\PB- CSharp - Conditional-Statements -Lab\08.toyShop\obj\Debug\netcoreapp3.1\08.toyShop.pdb

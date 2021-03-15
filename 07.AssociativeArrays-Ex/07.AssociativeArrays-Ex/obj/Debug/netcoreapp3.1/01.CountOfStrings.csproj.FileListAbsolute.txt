@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.exe
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.deps.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\bin\Debug\netcoreapp3.1\01.CountOfStrings.pdb
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\obj\Debug\netcoreapp3.1\01.CountOfStrings.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\obj\Debug\netcoreapp3.1\01.CountOfStrings.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\obj\Debug\netcoreapp3.1\01.CountOfStrings.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\obj\Debug\netcoreapp3.1\01.CountOfStrings.dll
+C:\Users\Ana-Maria\source\repos\07.AssociativeArrays-Ex\07.AssociativeArrays-Ex\obj\Debug\netcoreapp3.1\01.CountOfStrings.pdb

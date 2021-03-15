@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.exe
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.deps.json
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.dll
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\bin\Debug\netcoreapp3.1\01.Username.pdb
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\obj\Debug\netcoreapp3.1\01.Username.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\obj\Debug\netcoreapp3.1\01.Username.dll
+C:\Users\Ana-Maria\source\repos\9 August 2019\9 August 2019\obj\Debug\netcoreapp3.1\01.Username.pdb

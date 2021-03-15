@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part2.exercises\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb

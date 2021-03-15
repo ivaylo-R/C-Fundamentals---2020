@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.exe
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.deps.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\bin\Debug\netcoreapp3.1\04.SnowWhiteNewWay.pdb
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\obj\Debug\netcoreapp3.1\04.SnowWhiteNewWay.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\obj\Debug\netcoreapp3.1\04.SnowWhiteNewWay.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\obj\Debug\netcoreapp3.1\04.SnowWhiteNewWay.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\obj\Debug\netcoreapp3.1\04.SnowWhiteNewWay.dll
+C:\Users\Ana-Maria\source\repos\07.Associative Arrays - More Exercise\04.SnowWhiteNewWay\obj\Debug\netcoreapp3.1\04.SnowWhiteNewWay.pdb

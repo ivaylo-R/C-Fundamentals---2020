@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb

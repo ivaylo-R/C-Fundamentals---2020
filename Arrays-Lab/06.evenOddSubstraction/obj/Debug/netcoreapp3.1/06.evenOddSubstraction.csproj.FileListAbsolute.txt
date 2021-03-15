@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.exe
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\bin\Debug\netcoreapp3.1\06.evenOddSubstraction.pdb
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\obj\Debug\netcoreapp3.1\06.evenOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\obj\Debug\netcoreapp3.1\06.evenOddSubstraction.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\obj\Debug\netcoreapp3.1\06.evenOddSubstraction.dll
+C:\Users\Ana-Maria\source\repos\Arrays-Lab\06.evenOddSubstraction\obj\Debug\netcoreapp3.1\06.evenOddSubstraction.pdb

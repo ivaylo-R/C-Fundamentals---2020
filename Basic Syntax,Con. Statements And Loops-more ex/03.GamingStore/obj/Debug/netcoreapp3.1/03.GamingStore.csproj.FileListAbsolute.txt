@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax,Con. Statements And Loops-more ex\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.pdb

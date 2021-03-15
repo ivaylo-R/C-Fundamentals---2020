@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.exe
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.deps.json
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.dll
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\bin\Debug\netcoreapp3.1\01. winning ticket.pdb
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\obj\Debug\netcoreapp3.1\01. winning ticket.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\obj\Debug\netcoreapp3.1\01. winning ticket.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\obj\Debug\netcoreapp3.1\01. winning ticket.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\obj\Debug\netcoreapp3.1\01. winning ticket.dll
+C:\Users\Ana-Maria\source\repos\Regular Expressions - More Exercise\Regular Expressions - More Exercise\obj\Debug\netcoreapp3.1\01. winning ticket.pdb

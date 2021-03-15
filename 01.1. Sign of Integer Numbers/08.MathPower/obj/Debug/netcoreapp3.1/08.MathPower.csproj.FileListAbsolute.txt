@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.exe
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.deps.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.pdb
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.dll
+C:\Users\Ana-Maria\source\repos\01.1. Sign of Integer Numbers\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.exe
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.deps.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.dll
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\bin\Debug\netcoreapp3.1\06_BakingCompetition.pdb
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\obj\Debug\netcoreapp3.1\06_BakingCompetition.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\obj\Debug\netcoreapp3.1\06_BakingCompetition.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\obj\Debug\netcoreapp3.1\06_BakingCompetition.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\obj\Debug\netcoreapp3.1\06_BakingCompetition.dll
+C:\Users\Ana-Maria\source\repos\ExamPreparation\06_BakingCompetition\obj\Debug\netcoreapp3.1\06_BakingCompetition.pdb

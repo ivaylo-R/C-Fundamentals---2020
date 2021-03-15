@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\bin\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\05.RemoveNegativeAndRevers\obj\Debug\netcoreapp3.1\05.RemoveNegativeAndRevers.pdb

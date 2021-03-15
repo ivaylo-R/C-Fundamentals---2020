@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.exe
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.deps.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\bin\Debug\netcoreapp3.1\07.OrderByAge.pdb
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\obj\Debug\netcoreapp3.1\07.OrderByAge.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\obj\Debug\netcoreapp3.1\07.OrderByAge.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\obj\Debug\netcoreapp3.1\07.OrderByAge.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\obj\Debug\netcoreapp3.1\07.OrderByAge.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\07.OrderByAge\obj\Debug\netcoreapp3.1\07.OrderByAge.pdb

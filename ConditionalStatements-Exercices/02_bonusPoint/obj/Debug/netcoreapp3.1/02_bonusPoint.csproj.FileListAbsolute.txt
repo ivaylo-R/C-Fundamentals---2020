@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.exe
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.deps.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\bin\Debug\netcoreapp3.1\02_bonusPoint.pdb
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\obj\Debug\netcoreapp3.1\02_bonusPoint.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\obj\Debug\netcoreapp3.1\02_bonusPoint.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\obj\Debug\netcoreapp3.1\02_bonusPoint.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\obj\Debug\netcoreapp3.1\02_bonusPoint.dll
+C:\Users\Ana-Maria\source\repos\ConditionalStatements-Exercices\02_bonusPoint\obj\Debug\netcoreapp3.1\02_bonusPoint.pdb

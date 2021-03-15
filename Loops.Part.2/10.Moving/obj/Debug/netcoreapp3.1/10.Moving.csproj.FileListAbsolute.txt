@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.exe
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.deps.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.pdb
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.dll
+C:\Users\Ana-Maria\source\repos\Loops.Part.2\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.exe
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.deps.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\bin\Debug\netcoreapp3.1\10.SoftUniCourse Planing.pdb
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\obj\Debug\netcoreapp3.1\10.SoftUniCourse Planing.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\obj\Debug\netcoreapp3.1\10.SoftUniCourse Planing.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\obj\Debug\netcoreapp3.1\10.SoftUniCourse Planing.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\obj\Debug\netcoreapp3.1\10.SoftUniCourse Planing.dll
+C:\Users\Ana-Maria\source\repos\05.List-Exercise\10.SoftUniCourse Planing\obj\Debug\netcoreapp3.1\10.SoftUniCourse Planing.pdb

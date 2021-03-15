@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.exe
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.deps.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\bin\Debug\netcoreapp3.1\10.RageExpenss.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\obj\Debug\netcoreapp3.1\10.RageExpenss.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\obj\Debug\netcoreapp3.1\10.RageExpenss.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\obj\Debug\netcoreapp3.1\10.RageExpenss.dll
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\obj\Debug\netcoreapp3.1\10.RageExpenss.pdb
+C:\Users\Ana-Maria\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10.RageExpenss\obj\Debug\netcoreapp3.1\10.RageExpenss.csprojAssemblyReference.cache

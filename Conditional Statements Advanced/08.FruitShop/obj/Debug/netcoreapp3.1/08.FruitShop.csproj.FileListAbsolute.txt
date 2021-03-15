@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\obj\Debug\netcoreapp3.1\08.FruitShop.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\obj\Debug\netcoreapp3.1\08.FruitShop.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\obj\Debug\netcoreapp3.1\08.FruitShop.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.exe
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.deps.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\bin\Debug\netcoreapp3.1\08.FruitShop.pdb
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\obj\Debug\netcoreapp3.1\08.FruitShop.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced\08.FruitShop\obj\Debug\netcoreapp3.1\08.FruitShop.pdb

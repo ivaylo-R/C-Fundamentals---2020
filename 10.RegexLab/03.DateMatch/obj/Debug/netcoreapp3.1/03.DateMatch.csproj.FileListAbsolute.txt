@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.exe
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.deps.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.dll
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\bin\Debug\netcoreapp3.1\03.DateMatch.pdb
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\obj\Debug\netcoreapp3.1\03.DateMatch.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\obj\Debug\netcoreapp3.1\03.DateMatch.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\obj\Debug\netcoreapp3.1\03.DateMatch.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\obj\Debug\netcoreapp3.1\03.DateMatch.dll
+C:\Users\Ana-Maria\source\repos\10.RegexLab\03.DateMatch\obj\Debug\netcoreapp3.1\03.DateMatch.pdb

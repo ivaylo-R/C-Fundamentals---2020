@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.exe
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.deps.json
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.dll
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\bin\Debug\netcoreapp3.1\HelloScharp.pdb
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\obj\Debug\netcoreapp3.1\HelloScharp.vbprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\obj\Debug\netcoreapp3.1\HelloScharp.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\obj\Debug\netcoreapp3.1\HelloScharp.AssemblyInfo.vb
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\obj\Debug\netcoreapp3.1\HelloScharp.dll
+C:\Users\Ana-Maria\source\repos\HelloScharp\HelloScharp\obj\Debug\netcoreapp3.1\HelloScharp.pdb

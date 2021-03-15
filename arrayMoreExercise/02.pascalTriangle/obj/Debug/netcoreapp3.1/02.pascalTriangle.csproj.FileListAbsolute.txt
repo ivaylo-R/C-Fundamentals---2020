@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.exe
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.deps.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\bin\Debug\netcoreapp3.1\02.pascalTriangle.pdb
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\obj\Debug\netcoreapp3.1\02.pascalTriangle.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\obj\Debug\netcoreapp3.1\02.pascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\obj\Debug\netcoreapp3.1\02.pascalTriangle.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\obj\Debug\netcoreapp3.1\02.pascalTriangle.dll
+C:\Users\Ana-Maria\source\repos\arrayMoreExercise\02.pascalTriangle\obj\Debug\netcoreapp3.1\02.pascalTriangle.pdb

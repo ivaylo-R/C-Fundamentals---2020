@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\06.ObjectAndClasses\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.exe
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.deps.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.dll
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\bin\Debug\netcoreapp3.1\05. topIntegers.pdb
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\obj\Debug\netcoreapp3.1\05. topIntegers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\obj\Debug\netcoreapp3.1\05. topIntegers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\obj\Debug\netcoreapp3.1\05. topIntegers.dll
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\obj\Debug\netcoreapp3.1\05. topIntegers.pdb
+C:\Users\Ana-Maria\source\repos\Arrays.Exercises\05. topIntegers\obj\Debug\netcoreapp3.1\05. topIntegers.csprojAssemblyReference.cache

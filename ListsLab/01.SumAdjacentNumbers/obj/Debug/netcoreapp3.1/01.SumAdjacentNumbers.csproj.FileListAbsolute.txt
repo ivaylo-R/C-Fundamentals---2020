@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.exe
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.deps.json
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentNumbers.pdb
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentNumbers.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentNumbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentNumbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentNumbers.dll
+C:\Users\Ana-Maria\source\repos\ListsLab\01.SumAdjacentNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentNumbers.pdb

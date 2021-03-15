@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.exe
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.deps.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\bin\Debug\netcoreapp3.1\nestedLoopsExercsices.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\nestedLoopsExercsices.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\nestedLoopsExercsices.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\nestedLoopsExercsices.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\nestedLoopsExercsices.dll
+C:\Users\Ana-Maria\source\repos\nestedLoopsExercsices\nestedLoopsExercsices\obj\Debug\netcoreapp3.1\nestedLoopsExercsices.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.exe
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.deps.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\bin\Debug\netcoreapp3.1\02.Article.pdb
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\obj\Debug\netcoreapp3.1\02.Article.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\obj\Debug\netcoreapp3.1\02.Article.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\obj\Debug\netcoreapp3.1\02.Article.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\obj\Debug\netcoreapp3.1\02.Article.dll
+C:\Users\Ana-Maria\source\repos\06.ObjectAndClasses\02.Article\obj\Debug\netcoreapp3.1\02.Article.pdb

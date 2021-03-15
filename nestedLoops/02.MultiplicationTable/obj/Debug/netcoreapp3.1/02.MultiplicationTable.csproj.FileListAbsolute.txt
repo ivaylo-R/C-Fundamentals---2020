@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.exe
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.deps.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+C:\Users\Ana-Maria\source\repos\nestedLoops\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\obj\Debug\netcoreapp3.1\05.Msign.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\obj\Debug\netcoreapp3.1\05.Msign.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\obj\Debug\netcoreapp3.1\05.Msign.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.exe
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.deps.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\bin\Debug\netcoreapp3.1\05.Msign.pdb
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\obj\Debug\netcoreapp3.1\05.Msign.dll
+C:\Users\Ana-Maria\source\repos\Methods.More.Exercises\05.Msign\obj\Debug\netcoreapp3.1\05.Msign.pdb

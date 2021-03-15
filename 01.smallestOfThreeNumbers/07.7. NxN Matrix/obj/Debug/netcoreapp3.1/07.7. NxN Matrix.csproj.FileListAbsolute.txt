@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\obj\Debug\netcoreapp3.1\07.7. NxN Matrix.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\obj\Debug\netcoreapp3.1\07.7. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\obj\Debug\netcoreapp3.1\07.7. NxN Matrix.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.exe
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.deps.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\bin\Debug\netcoreapp3.1\07.7. NxN Matrix.pdb
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\obj\Debug\netcoreapp3.1\07.7. NxN Matrix.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\07.7. NxN Matrix\obj\Debug\netcoreapp3.1\07.7. NxN Matrix.pdb

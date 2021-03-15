@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.exe
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.deps.json
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.dll
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.pdb
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.dll
+C:\Users\Ana-Maria\source\repos\Loops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.pdb

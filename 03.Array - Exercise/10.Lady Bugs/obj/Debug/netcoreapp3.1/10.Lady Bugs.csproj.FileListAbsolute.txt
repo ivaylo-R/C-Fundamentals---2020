@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.exe
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.deps.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\bin\Debug\netcoreapp3.1\10.Lady Bugs.pdb
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\obj\Debug\netcoreapp3.1\10.Lady Bugs.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\obj\Debug\netcoreapp3.1\10.Lady Bugs.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\obj\Debug\netcoreapp3.1\10.Lady Bugs.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\obj\Debug\netcoreapp3.1\10.Lady Bugs.dll
+C:\Users\Ana-Maria\source\repos\03.Array - Exercise\10.Lady Bugs\obj\Debug\netcoreapp3.1\10.Lady Bugs.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\bin\Debug\netcoreapp3.1\02_07_YardGreening.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\obj\Debug\netcoreapp3.1\02_07_YardGreening.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\obj\Debug\netcoreapp3.1\02_07_YardGreening.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\obj\Debug\netcoreapp3.1\02_07_YardGreening.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\02_07_YardGreening\obj\Debug\netcoreapp3.1\02_07_YardGreening.pdb

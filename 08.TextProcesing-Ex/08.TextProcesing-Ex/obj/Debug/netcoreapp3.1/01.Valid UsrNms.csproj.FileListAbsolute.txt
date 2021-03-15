@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\bin\Debug\netcoreapp3.1\01.Valid UsrNms.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\obj\Debug\netcoreapp3.1\01.Valid UsrNms.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\obj\Debug\netcoreapp3.1\01.Valid UsrNms.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\obj\Debug\netcoreapp3.1\01.Valid UsrNms.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\obj\Debug\netcoreapp3.1\01.Valid UsrNms.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\08.TextProcesing-Ex\obj\Debug\netcoreapp3.1\01.Valid UsrNms.pdb

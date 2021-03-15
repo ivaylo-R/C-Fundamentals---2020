@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\bin\Debug\netcoreapp3.1\02.  Character Multiplier.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\obj\Debug\netcoreapp3.1\02.  Character Multiplier.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\obj\Debug\netcoreapp3.1\02.  Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\obj\Debug\netcoreapp3.1\02.  Character Multiplier.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\obj\Debug\netcoreapp3.1\02.  Character Multiplier.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\02.  Character Multiplier\obj\Debug\netcoreapp3.1\02.  Character Multiplier.pdb

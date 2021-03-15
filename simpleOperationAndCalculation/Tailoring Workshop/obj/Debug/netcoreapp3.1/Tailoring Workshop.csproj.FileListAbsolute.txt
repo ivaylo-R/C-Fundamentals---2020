@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.exe
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.deps.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.pdb
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.dll
+C:\Users\Ana-Maria\source\repos\simpleOperationAndCalculation\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.pdb

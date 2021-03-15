@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.exe
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.deps.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.pdb
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.dll
+C:\Users\Ana-Maria\source\repos\08.TextProcesing-Ex\06.ReplaceRepeatingChar\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChar.pdb

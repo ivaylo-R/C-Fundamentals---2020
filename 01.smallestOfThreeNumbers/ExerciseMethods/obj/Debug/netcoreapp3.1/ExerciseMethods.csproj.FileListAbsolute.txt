@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.exe
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.deps.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\bin\Debug\netcoreapp3.1\ExerciseMethods.pdb
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\obj\Debug\netcoreapp3.1\ExerciseMethods.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\obj\Debug\netcoreapp3.1\ExerciseMethods.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\obj\Debug\netcoreapp3.1\ExerciseMethods.dll
+C:\Users\Ana-Maria\source\repos\01.smallestOfThreeNumbers\ExerciseMethods\obj\Debug\netcoreapp3.1\ExerciseMethods.pdb
